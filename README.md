@@ -1,4 +1,5 @@
 Mechanic: Toodee and Topdee's Perspective Shift
+-Switch between controlling two characters
 
 Press X to switch pawns
 
